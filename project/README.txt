@@ -1,6 +1,6 @@
 En  el archivo se creó un único .py para ejecutar todo el código
 
-El proyecto está incompleto, ya que hacen falta los logs
+Al proyecto le hacen falta los logs
 
 En el entorno virtual se instalaron los módulos 'psycopg2' y 'requests'
 
